@@ -1,5 +1,6 @@
 {
   "name": "ESPHome",
-  "url": "https://github.com/esphome/home-assistant-addon",
-  "maintainer": "ESPHome <esphome@nabucasa.com>"
+  "url": "https://github.com/KurtVanVooren/home-assistant-addon",
+  "maintainer": "Kurt Van Vooren <jouwemail@voorbeeld.com>"
 }
+
